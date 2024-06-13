@@ -1,0 +1,11 @@
+# Ignorar carpetas .idea (configuración del IDE JetBrains)
+.idea/
+
+# Ignorar archivos .iml (archivos de módulo de IntelliJ IDEA)
+*.iml
+
+# Ignorar carpetas __pycache__ (archivos compilados de Python)
+__pycache__/
+
+# Ignorar archivos de bytecode de Python
+*.py[cod]
